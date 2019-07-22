@@ -10,5 +10,8 @@ Methods:
 - helper methods such as buildHuffTree (build the Huffman tree), and createBinMap (map each character to its code)
 - main method: test the encode and decode methods 
 
-Test files: alice30.txt and ur.jpg. 
+Test files: alice30.txt and ur.jpg
+Output files: alice30.enc, alicefreq.txt, alice30_dec.txt
+              ur.enc, freq.txt, ur_dex.jpg
+
 
